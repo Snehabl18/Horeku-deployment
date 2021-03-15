@@ -1,2 +1,1 @@
-# Horeku-deployment
-salary prediction
+# aws-Demo
